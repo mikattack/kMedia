@@ -20,6 +20,7 @@ function klnMedia.OnEvent(this, event, ...)
   -- Statusbars
   LSM:Register(LSM.MediaType.STATUSBAR, "Empty", [[Interface\Addons\klnMedia\statusbar\Empty.tga]])
   LSM:Register(LSM.MediaType.STATUSBAR, "Flat", [[Interface\Addons\klnMedia\statusbar\Flat.tga]])
+  LSM:Register(LSM.MediaType.STATUSBAR, "Diagonal", [[Interface\Addons\klnMedia\statusbar\diagonal.tga]])
   LSM:Register(LSM.MediaType.STATUSBAR, "Inset Glow", [[Interface\Addons\klnMedia\statusbar\InsetGlow.tga]])
   LSM:Register(LSM.MediaType.STATUSBAR, "Health", [[Interface\Addons\klnMedia\statusbar\health.tga]])
   LSM:Register(LSM.MediaType.STATUSBAR, "Resource", [[Interface\Addons\klnMedia\statusbar\resource.tga]])
