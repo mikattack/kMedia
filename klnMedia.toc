@@ -1,0 +1,7 @@
+## Interface: 60200
+## Title: |cFF7F2A90klnMedia|r
+## Notes: Inserts 'Kellen UI' specific media into LibSharedMedia's storage.
+## Author: Kellen
+## Version: 3
+
+klnMedia.lua
