@@ -1,7 +1,9 @@
-## Interface: 60200
-## Title: |cFF7F2A90kMedia|r
+## Interface: 80000
+## Title: |cFF7F2A90kln|r|Media
 ## Notes: Kellen's shared media assets.
 ## Author: Kellen
 ## Version: 4
+
+## Dependencies: klnCore
 
 kMedia.lua
