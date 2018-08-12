@@ -4,6 +4,6 @@
 ## Author: Kellen
 ## Version: 4
 
-## Dependencies: klnCore
+## Dependencies: kln
 
 kMedia.lua
